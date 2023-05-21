@@ -1,0 +1,90 @@
+.main-block{
+   width: 780px;
+   height: 320px;
+   background-color: #fff;
+   display: flex;
+   align-items: center;
+}
+
+.block1{
+width: 240px;
+height: 300px;
+background-color: #fff;
+border: 3px solid black;
+margin-left: 5px;
+}
+
+.block2{
+   width: 240px;
+   height: 300px;
+   background-color: rgb(248, 104, 104);
+   border: 3px solid rgb(248, 104, 104);
+   margin-left: 17px;
+   }
+
+   .block3{
+      width: 240px;
+      height: 300px;
+      background-color: #fff;
+      border: 3px solid black;
+      margin-left: 17px;
+      }
+
+      .twiter-rasm{
+         width: 70px;
+         height: 70px;
+         margin-top: 20px;
+        
+      }
+
+      .text-twi{
+         margin-left: 10pxpx;
+      }
+
+      .child{
+         width: 200px;
+         height: 40px;
+         background-color: black;
+         margin: 10px;
+         border-radius: 40px;
+         display: flex;
+         align-items: center;
+      }
+
+      .pew{
+         color: white;
+         
+         margin-left: 52px;
+      }
+
+      .insta-foto{
+         width: 92px;
+         height: 92px;
+         margin-top: 15px;
+
+      }
+
+      .text-INSTA{
+         margin-top: 5px;
+         color: #fff;
+      }
+
+      .yt-logo{
+         width: 100px;
+         height: 100px;
+      }
+      
+      .text-YT{
+         margin-top: 13px;
+      }
+      
+      .child1{
+         background-color: #fff;
+         width: 200px;
+         height: 40px;
+         
+         margin: 10px;
+         border-radius: 40px;
+         display: flex;
+         align-items: center;
+      }
